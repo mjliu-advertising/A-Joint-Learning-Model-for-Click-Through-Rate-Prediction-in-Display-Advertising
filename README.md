@@ -1,13 +1,13 @@
 # A-Joint-Learning-Model-for-Click-Through-Rate-Prediction-in-Display-Advertising
 ## AT-RESNET：
-这是论文“A Joint Learning Model for Click-Through Rate Prediction in Display Advertising”的代码。
+This is the code of the paper "A Joint Learning Model for Click-Through Rate Prediction in Display Advertising".
 
 ## Requirements:
 python3.7，tensorflow 1.10
 
 
-## 使用方法：
-本论文使用的IPinYou数据集来自make-ipinyou-data https://github.com/Atomu2014/make-ipinyou-data 将对应广告主的train.txt、test.txt复制到output/pnn目录即可
+## Instructions：
+The IPinYou data set used in this paper comes from make-ipinyou-data https://github.com/Atomu2014/make-ipinyou-data Copy the train.txt and test.txt of the corresponding advertiser to the output/pnn directory.
 
 
 The instruction of commands has been clearly stated in the codes (see the parse_args function).
